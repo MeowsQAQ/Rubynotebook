@@ -1,2 +1,4 @@
 # Rubynotebook
-note Ruby
+
+Just Chong!
+
