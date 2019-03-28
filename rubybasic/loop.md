@@ -37,7 +37,7 @@ until index == 5 do
 end
 ```
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## Other Loop
 
@@ -71,7 +71,7 @@ end
 end
 ```
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 * upto 升高至循环
 * downto 降至循环
@@ -88,5 +88,5 @@ end
 end
 ```
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
