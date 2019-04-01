@@ -21,5 +21,5 @@ puts player
 puts player[:name]+","+player[:age].to_s+","+player[:point].to_s
 ```
 
-![Hash](../.gitbook/assets/image%20%2839%29.png)
+![Hash](../.gitbook/assets/image%20%2846%29.png)
 

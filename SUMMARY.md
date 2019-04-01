@@ -23,4 +23,5 @@
 ## Ruby基础教程第五版笔记Programming
 
 * [1.Ruby初探](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/1.ruby-chu-tan.md)
+* [2.便利的对象](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/2.-bian-li-de-dui-xiang.md)
 
