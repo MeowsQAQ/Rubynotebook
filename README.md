@@ -25,6 +25,7 @@ Just Chong!
 
 * [1.Ruby初探](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/1.ruby-chu-tan.md)
 * [2.遍历的对象](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/2.-bian-li-de-dui-xiang.md)
+* [3.创建命令](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/3.-chuang-jian-ming-ling.md)
 
 
 
