@@ -25,4 +25,5 @@
 * [1.Ruby初探](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/1.ruby-chu-tan.md)
 * [2.便利的对象](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/2.-bian-li-de-dui-xiang.md)
 * [3.创建命令](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/3.-chuang-jian-ming-ling.md)
+* [4.对象、变量和常量](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/4.-dui-xiang-bian-liang-he-chang-liang.md)
 
