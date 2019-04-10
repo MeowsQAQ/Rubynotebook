@@ -1,0 +1,5 @@
+puts "首个参数：#{ARGV[0]}"
+puts "第二个参数：#{ARGV[1]}"
+puts "第三个参数：#{ARGV[2]}"
+puts "第四个参数：#{ARGV[3]}"
+puts "第五个参数：#{ARGV[4]}"
