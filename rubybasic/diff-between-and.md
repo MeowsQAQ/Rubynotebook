@@ -18,5 +18,5 @@ love = '#{4000+300+90+6}'
 puts love
 ```
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 

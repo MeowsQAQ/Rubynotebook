@@ -41,5 +41,5 @@
  if a<=b then puts "ok" end
 ```
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 

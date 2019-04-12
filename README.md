@@ -30,6 +30,7 @@ Just Chong!
 * Ruby的基础
   * [4.对象变量和常量](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/4.-dui-xiang-bian-liang-he-chang-liang.md)
   * [5.条件判断](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/5.-tiao-jian-pan-duan.md)
+  * [6.循环](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/6.-xun-huan.md)
 
 
 
