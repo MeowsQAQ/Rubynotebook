@@ -82,5 +82,5 @@ case week_day
 end
 ```
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 

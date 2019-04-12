@@ -16,5 +16,5 @@ end
 puts point ==2800? "uzi":"other"
 ```
 
-![tri-expression](../.gitbook/assets/image%20%2863%29.png)
+![tri-expression](../.gitbook/assets/image%20%2871%29.png)
 
