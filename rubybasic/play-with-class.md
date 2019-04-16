@@ -26,7 +26,7 @@ harden = Player.new("Harden")
 harden.show()
 ```
 
-![Class](../.gitbook/assets/image%20%2846%29.png)
+![Class](../.gitbook/assets/image%20%2852%29.png)
 
 ## 对象的方法
 
@@ -58,7 +58,7 @@ end
 puts Game.instance_methods(false) # 列出对象（类）内部的方法
 ```
 
-![.instance\_methods](../.gitbook/assets/image%20%2874%29.png)
+![.instance\_methods](../.gitbook/assets/image%20%2881%29.png)
 
 #### 调用方法：
 
@@ -67,7 +67,7 @@ csgo = Game.new()
 csgo.show()
 ```
 
-![use a method](../.gitbook/assets/image%20%2849%29.png)
+![use a method](../.gitbook/assets/image%20%2855%29.png)
 
 **respond\_to? /send\(\)**
 
@@ -79,7 +79,7 @@ if dota2.respond_to?("show")#判断对象是否存在show方法,要加?号
 end
 ```
 
-![send/respond\_to?](../.gitbook/assets/image%20%28111%29.png)
+![send/respond\_to?](../.gitbook/assets/image%20%28120%29.png)
 
 ## **C**lass property
 
@@ -101,7 +101,7 @@ mygame = Game.new()
 mygame.show()
 ```
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 ```text
 puts "title is"+ mygame.respond_to?("title").to_s #输出boolean值
@@ -113,5 +113,5 @@ mygame.price = "0"
 mygame.show()
 ```
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
