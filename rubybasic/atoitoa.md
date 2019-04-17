@@ -17,5 +17,5 @@ puts FG.to_i
 puts FG.to_i.to_f
 ```
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 

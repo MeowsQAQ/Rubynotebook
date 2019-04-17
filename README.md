@@ -33,6 +33,7 @@ Just Chong!
   * [6.循环](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/6.-xun-huan.md)
   * [7.方法](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/7.-fang-fa.md)
   * [8.类和模块](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/8.-lei-he-mo-kuai.md)
+  * [9.运算符](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/9.-yun-suan-fu.md)
 
 
 
