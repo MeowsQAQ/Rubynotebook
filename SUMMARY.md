@@ -31,4 +31,5 @@
 * [7.方法](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/7.-fang-fa.md)
 * [8.类和模块](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/8.-lei-he-mo-kuai.md)
 * [9.运算符](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/9.-yun-suan-fu.md)
+* [10.错误处理与异常](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/10.-cuo-wu-chu-li-yu-yi-chang.md)
 
