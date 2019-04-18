@@ -11,7 +11,7 @@ end
 sayHello #执行函数
 ```
 
-![def a simple func](../.gitbook/assets/image%20%2895%29.png)
+![def a simple func](../.gitbook/assets/image%20%2897%29.png)
 
 ## def a func and feed a param
 
