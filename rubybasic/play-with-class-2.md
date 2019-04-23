@@ -26,7 +26,7 @@ Game.toStr
 Game::toStr
 ```
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28146%29.png)
 
 ## Class extends
 
@@ -69,7 +69,7 @@ mygame.showGame
 mygame.SteamInfo
 ```
 
-![](../.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/image%20%28132%29.png)
 
 子类会继承父类的包括静态方法在内的所有方法
 

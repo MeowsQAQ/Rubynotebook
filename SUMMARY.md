@@ -34,4 +34,5 @@
 * [10.错误处理与异常](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/10.-cuo-wu-chu-li-yu-yi-chang.md)
 * [11.块](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/11.-kuai.md)
 * [12.数值类（Numeric）](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/12.-shu-zhi-lei-numeric.md)
+* [13.数组类（Array）](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/13.-shu-zu-lei-array.md)
 
