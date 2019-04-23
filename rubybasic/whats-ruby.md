@@ -2,7 +2,7 @@
 
 Ruby是一门面向对象的脚本语言，1993年由一位日本人Yukihiro Matsumoto创造，1995年正式公开发布，可用于开发网页（Ruby on Rails）和后台处理程序，应用面十分广泛，并被国际电工委员会（IEC）认证。
 
-![&#x307E;&#x3064;&#x3082;&#x3068;&#x3086;&#x304D;&#x3072;&#x308D;](../.gitbook/assets/image%20%2821%29.png)
+![&#x307E;&#x3064;&#x3082;&#x3068;&#x3086;&#x304D;&#x3072;&#x308D;](../.gitbook/assets/image%20%2822%29.png)
 
 ### 官网：[**https://www.ruby-lang.org/zh\_cn/**](https://www.ruby-lang.org/zh_cn/)\*\*\*\*
 

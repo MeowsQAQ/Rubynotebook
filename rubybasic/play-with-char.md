@@ -20,5 +20,5 @@ a="Hello"
 puts a*4
 ```
 
-![](../.gitbook/assets/image%20%28163%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 

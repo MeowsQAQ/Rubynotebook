@@ -38,6 +38,7 @@ Just Chong!
   * [11.块](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/11.-kuai.md)
 * Ruby的类
   * [12.数值类](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/12.-shu-zhi-lei-numeric.md)
+  * 13.数组类
 
 
 
