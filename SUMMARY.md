@@ -35,5 +35,5 @@
 * [11.块](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/11.-kuai.md)
 * [12.数值类（Numeric）](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/12.-shu-zhi-lei-numeric.md)
 * [13.数组类（Array）](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/13.-shu-zu-lei-array.md)
-* [Untitled](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/untitled.md)
+* [14.字符串类](ruby-ji-chu-jiao-cheng-di-wu-ban-bi-ji-programming/untitled.md)
 
