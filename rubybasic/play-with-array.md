@@ -7,7 +7,7 @@ games = ["csgo", "dota2", "lol"]
 puts games
 ```
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28170%29.png)
 
 ## Loop Array
 

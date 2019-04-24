@@ -79,7 +79,7 @@ if dota2.respond_to?("show")#判断对象是否存在show方法,要加?号
 end
 ```
 
-![send/respond\_to?](../.gitbook/assets/image%20%28178%29.png)
+![send/respond\_to?](../.gitbook/assets/image%20%28180%29.png)
 
 ## **C**lass property
 
@@ -113,5 +113,5 @@ mygame.price = "0"
 mygame.show()
 ```
 
-![](../.gitbook/assets/image%20%28192%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
