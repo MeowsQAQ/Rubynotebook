@@ -36,7 +36,7 @@ puts BaseFunc.v
 
   _module\_function:_ 的作用是把方法作为模块函数公开给外部使用，module\_function后面跟的参数是方法名。
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28158%29.png)
 
 #### 利用Mix-in扩展功能，解决ruby单继承 <a id="&#x5229;&#x7528;Mix-in&#x6269;&#x5C55;&#x529F;&#x80FD;&#xFF08;&#x89E3;&#x51B3;ruby&#x5355;&#x7EE7;&#x627F;&#xFF09;"></a>
 
@@ -56,5 +56,5 @@ myCls=BaseClass.new
 puts myCls.add(10,20)
 ```
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28115%29.png)
 

@@ -7,7 +7,7 @@ games = ["csgo", "dota2", "lol"]
 puts games
 ```
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
 ## Loop Array
 
@@ -22,7 +22,7 @@ games.each_with_index do |game,i|
 end
 ```
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28131%29.png)
 
 ## Combine Array
 
@@ -30,7 +30,7 @@ end
 puts games.join("-")
 ```
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 ## Confirm Array
 
@@ -40,5 +40,5 @@ if games.respond_to?("each") #games.respond_to?("each_with_index")
 end
 ```
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
