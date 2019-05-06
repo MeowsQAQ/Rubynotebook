@@ -1,0 +1,2 @@
+def str2hash
+	
