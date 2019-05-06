@@ -30,7 +30,7 @@ Here Document是源自Unix的shell的一种写法，使用&lt;&lt;来创建字�
 # 结束标识符 EOF(End of file)/EOB(End of block)
 ```
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ## 14.2 获取字符串的长度
 
@@ -47,7 +47,7 @@ p hello
 p hello<<"Ruby"<<"1"
 ```
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 ## 14.4 字符串的比较
 
@@ -59,7 +59,7 @@ p "aaaaa"<"b"
 p "z"<"x"
 ```
 
-![](../.gitbook/assets/image%20%28218%29.png)
+![](../.gitbook/assets/image%20%28231%29.png)
 
 ## 14.5 字符串的分割
 
@@ -70,7 +70,7 @@ str="a-b-c-d-e-f-g"
 p str.split('-')
 ```
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 ## **14. 6 换行符的使用方法**
 
@@ -88,7 +88,7 @@ end
 file.close
 ```
 
-![](../.gitbook/assets/image%20%28199%29.png)
+![](../.gitbook/assets/image%20%28212%29.png)
 
 ## 14.7 字符串的检索
 
@@ -101,7 +101,7 @@ p str.rindex("BB")
 p str.include?("BBB")
 ```
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
 ## 14.8 字符串与数组的共同方法
 
@@ -131,7 +131,7 @@ end
 p tmp
 ```
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ### 14.8.3 连接，反转（reverse）
 
